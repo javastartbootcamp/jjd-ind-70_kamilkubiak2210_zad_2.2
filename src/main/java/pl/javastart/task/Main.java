@@ -10,7 +10,7 @@ public class Main {
         String secondProductProducer = "Wedel";
         double secondProductPrice = 2.19;
 
-        System.out.println(firstProduct+" "+firstProductProducer+" "+firstProductprice+"zł");
-        System.out.println(secondProductProduct+" "+secondProductProducer+" "+secondProductPrice+"zł");
+        System.out.println(firstProduct + " " + firstProductProducer + " " + firstProductprice + "zł");
+        System.out.println(secondProductProduct + " " + secondProductProducer + " " + secondProductPrice + "zł");
     }
 }
